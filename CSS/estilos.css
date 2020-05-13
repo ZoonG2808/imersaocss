@@ -1,0 +1,39 @@
+body {
+  background-image: url('https://img.elo7.com.br/product/zoom/28B28C9/fundo-fotografico-em-tecido-textura-vermelha-2-60x1-50-painel-sublimado.jpg');
+  background-size: outo 100vh;
+  font-family: Times New Roman;
+  height: 100vh; 
+}
+
+.menu{
+  background-color: white; 
+}
+
+a {
+  color: orange; 
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none; 
+}
+
